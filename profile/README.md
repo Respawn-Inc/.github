@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![compete-twitter](https://user-images.githubusercontent.com/49770117/133911020-5f17659d-3976-4290-ada2-c271410f4714.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
